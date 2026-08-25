@@ -13,10 +13,11 @@ public class Test {
         System.out.println("Sweet world");
         System.out.println("Hello world");
         System.out.println("Hello Everyone");
-<<<<<<< HEAD
-        System.out.println("Sweet Eyes");
-=======
+        
+        
+        
+        
+        System.out.println("Sweet Eyes Eyes");
 
->>>>>>> 6d7f19d509b314a4b4737017af7ba34d3c5251d4
-    }
+}
 }
