@@ -13,7 +13,6 @@ public class Test {
         System.out.println("Sweet world");
         System.out.println("Hello world");
         System.out.println("Stage");
-        System.out.println("Argument");
 
     }
 }
