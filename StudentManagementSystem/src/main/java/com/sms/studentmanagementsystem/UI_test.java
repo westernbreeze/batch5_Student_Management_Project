@@ -37,7 +37,7 @@ public class UI_test extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(102, 102, 0));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jButton1.setBackground(new java.awt.Color(153, 0, 0));
+        jButton1.setBackground(new java.awt.Color(204, 0, 204));
         jButton1.setText("jButton1");
         jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 90, 120, 100));
 
