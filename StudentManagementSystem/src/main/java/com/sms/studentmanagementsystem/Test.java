@@ -12,13 +12,22 @@ public class Test {
     public static void main(String args []){
         System.out.println("Sweet world");
         System.out.println("Hello world");
+
         System.out.println("Hello Everyone");
-        System.out.println("Hello baby");
+
+       
+        System.out.println("Hello sir");
+
         
         
-        
+       
         System.out.println("another one");
         
+
+        System.out.println("Stage");
+        System.out.println("meeting");
+        System.out.println("Kyawt Kyawt San");
+
 
 }
 }
