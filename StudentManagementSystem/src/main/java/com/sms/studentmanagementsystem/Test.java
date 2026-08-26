@@ -12,6 +12,7 @@ public class Test {
     public static void main(String args []){
         System.out.println("Sweet world");
         System.out.println("Hello world");
+
         System.out.println("Hello Everyone");
 
        
@@ -22,6 +23,10 @@ public class Test {
        
         System.out.println("another one");
         
+
+        System.out.println("Stage");
+        System.out.println("moot");
+
 
 }
 }
