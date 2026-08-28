@@ -30,6 +30,8 @@ public class UI_test extends javax.swing.JFrame {
 
         jPanel1 = new javax.swing.JPanel();
         jButton1 = new javax.swing.JButton();
+        panel1 = new java.awt.Panel();
+        jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -40,6 +42,13 @@ public class UI_test extends javax.swing.JFrame {
         jButton1.setBackground(new java.awt.Color(204, 0, 204));
         jButton1.setText("jButton1");
         jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 90, 120, 100));
+
+        panel1.setBackground(new java.awt.Color(255, 153, 153));
+
+        jLabel1.setText("Si Si");
+        panel1.add(jLabel1);
+
+        jPanel1.add(panel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 30, 120, 120));
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 400, 300));
 
@@ -73,6 +82,8 @@ public class UI_test extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
+    private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
+    private java.awt.Panel panel1;
     // End of variables declaration//GEN-END:variables
 }
