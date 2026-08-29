@@ -41,14 +41,14 @@ public class UI_test extends javax.swing.JFrame {
 
         jButton1.setBackground(new java.awt.Color(204, 0, 204));
         jButton1.setText("jButton1");
-        jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 90, 120, 100));
+        jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, 120, 40));
 
         panel1.setBackground(new java.awt.Color(255, 153, 153));
 
         jLabel1.setText("Si Si");
         panel1.add(jLabel1);
 
-        jPanel1.add(panel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 30, 120, 120));
+        jPanel1.add(panel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 70, 120, 40));
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 400, 300));
 
