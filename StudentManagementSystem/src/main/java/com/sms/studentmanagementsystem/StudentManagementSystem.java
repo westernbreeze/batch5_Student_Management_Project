@@ -17,5 +17,6 @@ public class StudentManagementSystem {
         System.out.println("Hello Everyone");
         //add new line from zhm
         //add new line from uzm
+        System.out.println("Woo, John");
     }
 }
