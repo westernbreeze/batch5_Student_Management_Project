@@ -32,6 +32,8 @@ public class UI_test extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
         panel1 = new java.awt.Panel();
         jLabel1 = new javax.swing.JLabel();
+        jButton2 = new javax.swing.JButton();
+        jButton3 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -49,6 +51,8 @@ public class UI_test extends javax.swing.JFrame {
         panel1.add(jLabel1);
 
         jPanel1.add(panel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 70, 120, 40));
+        jPanel1.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 20, 130, 30));
+        jPanel1.add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 80, 130, 30));
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 400, 300));
 
@@ -82,6 +86,8 @@ public class UI_test extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
+    private javax.swing.JButton jButton2;
+    private javax.swing.JButton jButton3;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
     private java.awt.Panel panel1;
